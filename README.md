@@ -1,4 +1,6 @@
 #FarmHouse:Plant Disease ditection :
 1.This is my project. Here is eight algorithms. you can simply  open it by google colab and it shows the output as well.
-2.There is a python file that contains the web application code.
-3.From eight algorithm, I select Resnet151v2 as a model because it give me the highest accurecy rate.
+2.From eight algorithm, I select ResNet152v2 as a model because it give me the highest accurecy rate.
+3.Here are the link of my trained mode:  https://drive.google.com/drive/folders/1xSgbUyXMyvPUcCEING9zGv7R4T3XCfqg?usp=sharing
+4.Here is the link of web app: https://drive.google.com/drive/folders/1Z1fKRegRalWJDZFeK-1bQjFEVvQYplwc?usp=sharing
+5.Web app contains the python code and take ResNet152v2 as model.
